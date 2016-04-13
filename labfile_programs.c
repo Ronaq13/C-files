@@ -14,7 +14,7 @@ int main()
         printf("\n\t\t5. Find whether number is Even or Odd.");
         printf("\n\t\t6. Check whether the year is a leap year or not.");
         printf("\n\t\t7. Find sum of a GP.");
-     //   printf("\n\t\t8. Check whether the entered character is a vowel, other character, number. ");
+       printf("\n\t\t8. Check whether the entered character is a vowel, other character, number. ");
         printf("\n\n Enter your choice:  ");
         scanf("%d",&n);
         switch(n)
